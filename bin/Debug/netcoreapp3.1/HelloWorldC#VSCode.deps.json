@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HelloWorldC#VSCode/1.0.0": {
+        "dependencies": {
+          "AWSSDK.SimpleSystemsManagement": "3.3.125.3",
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "HelloWorldC#VSCode.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.3.107.10": {
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.107.10"
+          }
+        }
+      },
+      "AWSSDK.SimpleSystemsManagement/3.3.125.3": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.107.10"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.SimpleSystemsManagement.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.125.3"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HelloWorldC#VSCode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.3.107.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BlIzfCiPF0PKzcW/7oDU8E5vQ3aYlini5bijSKc4w3nqkdhqmM0iVYCAV6IZtu1nJyf2OQsF6pII5dOxXnaLyQ==",
+      "path": "awssdk.core/3.3.107.10",
+      "hashPath": "awssdk.core.3.3.107.10.nupkg.sha512"
+    },
+    "AWSSDK.SimpleSystemsManagement/3.3.125.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ryEMNvDpOd/jVlcyW36MBlBHVZZ3OzRPdn5d95FGu2c5OEmo9/ucQlMdqV8bvZg6pkCj4fpLGm/L+QEc1IwVog==",
+      "path": "awssdk.simplesystemsmanagement/3.3.125.3",
+      "hashPath": "awssdk.simplesystemsmanagement.3.3.125.3.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    }
+  }
+}

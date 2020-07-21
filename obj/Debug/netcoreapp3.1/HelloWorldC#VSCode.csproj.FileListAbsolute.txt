@@ -1,0 +1,17 @@
+C:\eduardogouvea\projetos\dotnet\HelloWorldC#VSCode\bin\Debug\netcoreapp3.1\HelloWorldC#VSCode.exe
+C:\eduardogouvea\projetos\dotnet\HelloWorldC#VSCode\bin\Debug\netcoreapp3.1\HelloWorldC#VSCode.deps.json
+C:\eduardogouvea\projetos\dotnet\HelloWorldC#VSCode\bin\Debug\netcoreapp3.1\HelloWorldC#VSCode.runtimeconfig.json
+C:\eduardogouvea\projetos\dotnet\HelloWorldC#VSCode\bin\Debug\netcoreapp3.1\HelloWorldC#VSCode.runtimeconfig.dev.json
+C:\eduardogouvea\projetos\dotnet\HelloWorldC#VSCode\bin\Debug\netcoreapp3.1\HelloWorldC#VSCode.dll
+C:\eduardogouvea\projetos\dotnet\HelloWorldC#VSCode\bin\Debug\netcoreapp3.1\HelloWorldC#VSCode.pdb
+C:\eduardogouvea\projetos\dotnet\HelloWorldC#VSCode\obj\Debug\netcoreapp3.1\HelloWorldC#VSCode.csprojAssemblyReference.cache
+C:\eduardogouvea\projetos\dotnet\HelloWorldC#VSCode\obj\Debug\netcoreapp3.1\HelloWorldC#VSCode.AssemblyInfoInputs.cache
+C:\eduardogouvea\projetos\dotnet\HelloWorldC#VSCode\obj\Debug\netcoreapp3.1\HelloWorldC#VSCode.AssemblyInfo.cs
+C:\eduardogouvea\projetos\dotnet\HelloWorldC#VSCode\obj\Debug\netcoreapp3.1\HelloWorldC#VSCode.csproj.CoreCompileInputs.cache
+C:\eduardogouvea\projetos\dotnet\HelloWorldC#VSCode\obj\Debug\netcoreapp3.1\HelloWorldC#VSCode.dll
+C:\eduardogouvea\projetos\dotnet\HelloWorldC#VSCode\obj\Debug\netcoreapp3.1\HelloWorldC#VSCode.pdb
+C:\eduardogouvea\projetos\dotnet\HelloWorldC#VSCode\obj\Debug\netcoreapp3.1\HelloWorldC#VSCode.genruntimeconfig.cache
+C:\eduardogouvea\projetos\dotnet\HelloWorldC#VSCode\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\eduardogouvea\projetos\dotnet\HelloWorldC#VSCode\bin\Debug\netcoreapp3.1\AWSSDK.SimpleSystemsManagement.dll
+C:\eduardogouvea\projetos\dotnet\HelloWorldC#VSCode\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\eduardogouvea\projetos\dotnet\HelloWorldC#VSCode\obj\Debug\netcoreapp3.1\HelloWorldC#VSCode.csproj.CopyComplete
